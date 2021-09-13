@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonisy1406
+- 👋 Hi, I’m Joni Syofian
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning about data science and oceanography
 
