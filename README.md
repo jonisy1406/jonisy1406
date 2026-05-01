@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Joni Syofian
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning about data science and oceanography
+I am a Data Engineer with nearly 2 years of professional experience as a Technical Consultant, focused on data engineering, analytics, and business intelligence.
+
+I build end-to-end data solutions from extraction and transformation to SQL analysis, reporting, and dashboard delivery. I enjoy turning complex datasets into reliable insights that support better decisions.
 
 
 <!---
